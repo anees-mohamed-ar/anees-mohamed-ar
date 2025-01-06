@@ -2,8 +2,8 @@
 
 ## Connect with Me
 - [Resume](link-to-your-resume)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Instagram](https://www.instagram.com/your-instagram-username/)
+- [LinkedIn](https://www.linkedin.com/in/anees-mohamed-ar/)
+- [Instagram](https://www.instagram.com/anees_a_r__/)
 
 ## Languages Known
 
