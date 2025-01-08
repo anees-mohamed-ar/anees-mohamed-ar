@@ -1,7 +1,7 @@
 # Hi, I'm Anees Mohamed! 👋
 
 ## Connect with Me
-- [Resume]([link-to-your-resume](https://drive.google.com/file/d/1rCU5jBBgP5CKS1SGyPL1AAlnlOVBTbwu/view?usp=sharing))
+- [Resume](https://drive.google.com/file/d/1rCU5jBBgP5CKS1SGyPL1AAlnlOVBTbwu/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/anees-mohamed-ar/)
 - [Instagram](https://www.instagram.com/anees_a_r__/)
 
